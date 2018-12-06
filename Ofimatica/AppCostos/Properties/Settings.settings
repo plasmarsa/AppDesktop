@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppCostos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServidorSQL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Hestia</Value>
+    </Setting>
+    <Setting Name="BasedeDatosSQL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Plasmarsa</Value>
+    </Setting>
+    <Setting Name="UsuarioDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ofimatica</Value>
+    </Setting>
+    <Setting Name="PasswordUsuarioDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ofimatica</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
