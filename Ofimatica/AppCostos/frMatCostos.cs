@@ -37,13 +37,6 @@ namespace AppCostos
         List<Resumen> Resumen;
 
 
-
-
-
-
-
-
-
         public frMatCostos(ref OfimaticaDBContext DbContext)
         {
             CultureInfo _culture = new CultureInfo("es-CO");
